@@ -3,6 +3,8 @@ Wordpress Multisite JSON API
 ============================
 This is a Wordpress Plugin that adds JSON endpoints for creating, listing, and deleting sites on multisite.
 
+On this fork the aim is to add endpoints to work with Users on Multisite.
+
 This plugin aims to be simple to make Wordpress polyglot environments not only possible, but practical. I'm not the best at PHP, ruby and Go are more my thing, hence why I'm making this API. Contributions are greatly appreciated.
 
 Status
